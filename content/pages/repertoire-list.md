@@ -7,36 +7,285 @@ uid: 3c5adc0d-6cb8-5821-bc46-5de2b4ec399a
 Selected Works of African American Composers and Concert Artists
 ----------------------------------------------------------------
 
-| WORKS (AUTHORS) | COMPOSERS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Art Songs**{{< /td-colspan >}} ||
-| The Breath of a Rose (Langston Hughes) | William Grant Still |
-| Dancing in the Sun (Howard Weedun) | John W. Work, III |
-| Fi-yer! (Langston Hughes) | Hall Johnson |
-| _Ice and Fire_ (Mari Evans)  {{< br >}}\- If There Be Sorrow  {{< br >}} | Wendell Logan |
-| Night (Louise C. Wallace) | Florence B. Price |
-| On Consciousness Streams | Jacqueline B. Hairston |
-| Song to the Dark Virgin (Langston Hughes) | Florence B. Price |
-| _Three Dream Portraits_ (Langston Hughes)  {{< br >}}\- Minstrel Man  {{< br >}}\- Dream Variation  {{< br >}}\- I, Too | Margaret Bonds |
-| Two Songs for Julie Ju (George Houston Bass) | Noel Da Costa |
-| {{< td-colspan 2 >}}**Folk Song Arrangements**{{< /td-colspan >}} ||
-| Didn't My Lord Deliver Daniel? | Traditional African American Spiritual, arr. by Edward Boatner |
-| Joshua Fit the Battle of Jericho | Traditional African American Spiritual, arr. by Lawrence Brown |
-| Were You There? | Traditional African American Spiritual, arr. by Roland Hayes |
-| When I Get Home | Traditional African American Spiritual, arr. by Edward Boatner |
-| {{< td-colspan 2 >}}**Operatic Arias and Ensembles**{{< /td-colspan >}} ||
-| _A Christmas Miracle_ (Owen Dodson)  {{< br >}}\- Cassandra's Lullaby | Mark Fax |
-| _Dream Lovers  {{< br >}}_\- Long, long the labour | Samuel Coleridge-Taylor |
-| _Porgy and Bess  {{< br >}}_\- I Got Plenty O' Nuthin'  {{< br >}} | George and Ira Gershwin 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WORKS (AUTHORS)
+{{< thclose >}}
+{{< thopen >}}
+COMPOSERS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Art Songs**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Breath of a Rose (Langston Hughes)
+{{< tdclose >}}
+{{< tdopen >}}
+William Grant Still
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Dancing in the Sun (Howard Weedun)
+{{< tdclose >}}
+{{< tdopen >}}
+John W. Work, III
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fi-yer! (Langston Hughes)
+{{< tdclose >}}
+{{< tdopen >}}
+Hall Johnson
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Ice and Fire_ (Mari Evans)  
+\- If There Be Sorrow  
+
+{{< tdclose >}}
+{{< tdopen >}}
+Wendell Logan
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Night (Louise C. Wallace)
+{{< tdclose >}}
+{{< tdopen >}}
+Florence B. Price
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+On Consciousness Streams
+{{< tdclose >}}
+{{< tdopen >}}
+Jacqueline B. Hairston
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Song to the Dark Virgin (Langston Hughes)
+{{< tdclose >}}
+{{< tdopen >}}
+Florence B. Price
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Three Dream Portraits_ (Langston Hughes)  
+\- Minstrel Man  
+\- Dream Variation  
+\- I, Too
+{{< tdclose >}}
+{{< tdopen >}}
+Margaret Bonds
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two Songs for Julie Ju (George Houston Bass)
+{{< tdclose >}}
+{{< tdopen >}}
+Noel Da Costa
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Folk Song Arrangements**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Didn't My Lord Deliver Daniel?
+{{< tdclose >}}
+{{< tdopen >}}
+Traditional African American Spiritual, arr. by Edward Boatner
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Joshua Fit the Battle of Jericho
+{{< tdclose >}}
+{{< tdopen >}}
+Traditional African American Spiritual, arr. by Lawrence Brown
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Were You There?
+{{< tdclose >}}
+{{< tdopen >}}
+Traditional African American Spiritual, arr. by Roland Hayes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+When I Get Home
+{{< tdclose >}}
+{{< tdopen >}}
+Traditional African American Spiritual, arr. by Edward Boatner
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Operatic Arias and Ensembles**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_A Christmas Miracle_ (Owen Dodson)  
+\- Cassandra's Lullaby
+{{< tdclose >}}
+{{< tdopen >}}
+Mark Fax
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Dream Lovers  
+_\- Long, long the labour
+{{< tdclose >}}
+{{< tdopen >}}
+Samuel Coleridge-Taylor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Porgy and Bess  
+_\- I Got Plenty O' Nuthin'  
+
+{{< tdclose >}}
+{{< tdopen >}}
+George and Ira Gershwin
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Works Representative of Students' Heritages
 -------------------------------------------
 
-| HERITAGES | WORKS (AUTHORS) | COMPOSERS |
-| --- | --- | --- |
-| African American | Oh, Didn't It Rain? | Traditional African American Spiritual, arr. by Henry T. Burleigh |
-| German | _Singet Nicht in Trauertönen_, Op. 98a, No.1 (Goethe) | Robert Schumann |
-| Russian | Cradle Song (Apollon N. Maikov) | Tchaikovsky |
-| Spanish | _Canciones clásicas españolas  {{< br >}}\- Al Amor_ (Cristóbal de Castillejo) | Fernando Obradors |
-| Swedish | _Värmeland_ | Folk song |
-| Taiwanese | _Three Poems by Xu Zhimo  {{< br >}}\-_ By Chance | Yiu-Kwong Chung
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HERITAGES
+{{< thclose >}}
+{{< thopen >}}
+WORKS (AUTHORS)
+{{< thclose >}}
+{{< thopen >}}
+COMPOSERS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+African American
+{{< tdclose >}}
+{{< tdopen >}}
+Oh, Didn't It Rain?
+{{< tdclose >}}
+{{< tdopen >}}
+Traditional African American Spiritual, arr. by Henry T. Burleigh
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+German
+{{< tdclose >}}
+{{< tdopen >}}
+_Singet Nicht in Trauertönen_, Op. 98a, No.1 (Goethe)
+{{< tdclose >}}
+{{< tdopen >}}
+Robert Schumann
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Russian
+{{< tdclose >}}
+{{< tdopen >}}
+Cradle Song (Apollon N. Maikov)
+{{< tdclose >}}
+{{< tdopen >}}
+Tchaikovsky
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Spanish
+{{< tdclose >}}
+{{< tdopen >}}
+_Canciones clásicas españolas  
+\- Al Amor_ (Cristóbal de Castillejo)
+{{< tdclose >}}
+{{< tdopen >}}
+Fernando Obradors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Swedish
+{{< tdclose >}}
+{{< tdopen >}}
+_Värmeland_
+{{< tdclose >}}
+{{< tdopen >}}
+Folk song
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Taiwanese
+{{< tdclose >}}
+{{< tdopen >}}
+_Three Poems by Xu Zhimo  
+\-_ By Chance
+{{< tdclose >}}
+{{< tdopen >}}
+Yiu-Kwong Chung
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
