@@ -16,11 +16,11 @@ Examples of Student Papers, Listed by Subject
 
 Papers are courtesy of student authors. Used with permission.
 
-Gregg Baker (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/gregg_baker))
+Gregg Baker ([PDF]({{< baseurl >}}/resources/gregg_baker))
 
-Carmen Balthrop ([PDF 1]({{< baseurl >}}/resources/carmenbalthrop01)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/carmenbalthrop02))
+Carmen Balthrop ([PDF 1]({{< baseurl >}}/resources/carmenbalthrop01)) ([PDF 2]({{< baseurl >}}/resources/carmenbalthrop02))
 
-Sir Willard W. White ([PDF 1]({{< baseurl >}}/resources/white_01)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/white_02))
+Sir Willard W. White ([PDF 1]({{< baseurl >}}/resources/white_01)) ([PDF 2]({{< baseurl >}}/resources/white_02))
 
 Mid-Term Project
 ----------------
